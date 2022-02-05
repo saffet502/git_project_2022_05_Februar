@@ -6,7 +6,7 @@ public class GitErsteClass {
 		
 		System.out.println("erste commit wurde von local repository erstellt");
 		System.out.println("zweite commit wurde von local repository erstellt");
-		System.out.println("dritte commit wurde von local repository erstellt");
+		System.out.println("Dritte commit wurde von local repository geändert");
 		System.out.println("erste commit wurde von remote repository erstellt");
 	}
 
